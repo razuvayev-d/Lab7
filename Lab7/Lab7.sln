@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleengButtom", "Lab7\FleengButtom.csproj", "{327AAB32-6F87-4DEE-80E4-21F8DB44CA18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colors", "Colors\Colors.csproj", "{F08C417D-B9B7-4ADD-B9BB-90848C3BE9C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327AAB32-6F87-4DEE-80E4-21F8DB44CA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327AAB32-6F87-4DEE-80E4-21F8DB44CA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327AAB32-6F87-4DEE-80E4-21F8DB44CA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327AAB32-6F87-4DEE-80E4-21F8DB44CA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F08C417D-B9B7-4ADD-B9BB-90848C3BE9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08C417D-B9B7-4ADD-B9BB-90848C3BE9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08C417D-B9B7-4ADD-B9BB-90848C3BE9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08C417D-B9B7-4ADD-B9BB-90848C3BE9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B19D58A9-E46B-4E21-AA36-7D3292E38FE4}
+	EndGlobalSection
+EndGlobal

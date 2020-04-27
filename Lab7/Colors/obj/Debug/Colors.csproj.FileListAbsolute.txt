@@ -1,0 +1,10 @@
+C:\Users\Danil\source\repos\Lab7\Colors\bin\Debug\Colors.exe.config
+C:\Users\Danil\source\repos\Lab7\Colors\bin\Debug\Colors.exe
+C:\Users\Danil\source\repos\Lab7\Colors\bin\Debug\Colors.pdb
+C:\Users\Danil\source\repos\Lab7\Colors\obj\Debug\Colors.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Lab7\Colors\obj\Debug\Colors.Form1.resources
+C:\Users\Danil\source\repos\Lab7\Colors\obj\Debug\Colors.Properties.Resources.resources
+C:\Users\Danil\source\repos\Lab7\Colors\obj\Debug\Colors.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Lab7\Colors\obj\Debug\Colors.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Lab7\Colors\obj\Debug\Colors.exe
+C:\Users\Danil\source\repos\Lab7\Colors\obj\Debug\Colors.pdb
